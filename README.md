@@ -1,11 +1,11 @@
-# 🛒 Ecommerce API  
+# Ecommerce API  
 
 A RESTful API for managing an ecommerce platform, built with **Django Rest Framework (DRF)** and **JWT authentication**.  
 This API allows users to register, browse products, leave reviews, and manage their cart & orders.  
 
 ---
 
-## 🚀 Features  
+## Features  
 
 - **User Management**
   - User registration with secure password hashing.
@@ -28,7 +28,7 @@ This API allows users to register, browse products, leave reviews, and manage th
 
 ---
 
-## 📦 Tech Stack  
+## Tech Stack  
 
 - **Backend:** Django, Django Rest Framework  
 - **Authentication:** JWT (`djangorestframework-simplejwt`)  
@@ -37,7 +37,7 @@ This API allows users to register, browse products, leave reviews, and manage th
 
 ---
 
-## ⚙️ Installation & Setup  
+## Installation & Setup  
 
 ### 1. Clone the repository  
 
@@ -56,7 +56,7 @@ python manage.py migrate
 python manage.py runserver
 
 API will be available at:
-👉 http://127.0.0.1:8000/
+http://127.0.0.1:8000/
 
 ```
 ### 1. Authentication
