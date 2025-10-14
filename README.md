@@ -42,7 +42,7 @@ This API allows users to register, browse products, leave reviews, and manage th
 ### 1. Clone the repository  
 
 ```bash
-git clone https://github.com/your-username/ecommerce-api.git
+git clone https://github.com/benet013/EcommerceAPI
 cd ecommerce-api
 
 python -m venv venv
